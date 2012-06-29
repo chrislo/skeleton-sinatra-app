@@ -1,0 +1,19 @@
+* Skeleton Sinatra App
+
+This is a sinatra app that follows some conventions that I like to use
+when building web applications. It's optimised for database-backed web
+apps rather than APIs, and as such features:
+
+- Twitter bootstrap
+- jquery
+- Capybara for acceptance testing
+- Minitest
+
+** Todo
+
+Things I want to add:
+
+- Datamapper for persistence
+- A pry-based console
+- Authentication (using omniauth?) and a user model.
+

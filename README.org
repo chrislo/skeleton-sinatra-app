@@ -8,6 +8,7 @@ apps rather than APIs, and as such features:
 - jquery
 - Capybara for acceptance testing
 - Minitest
+- Application config in =config/settings.yml=
 
 ** Todo
 
